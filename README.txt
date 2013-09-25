@@ -4,6 +4,14 @@
 README file for DeBi algorithm 
 ============================================================
 
+Reference:
+
+Akdes Serin and Martin Vingron DeBi: Discovering Differentially Expressed
+Biclusters using a Frequent Itemset Approach Algorithms Mol Biol. 2011; 6: 18.
+doi:  10.1186/1748-7188-6-18
+
+============================================================
+
 Installation
 ============================
 cd src
